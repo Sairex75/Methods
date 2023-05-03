@@ -1,0 +1,14 @@
+C:\Users\pirat\source\repos\Methods\ReplaceSentence\obj\Debug\netcoreapp3.1\ReplaceSentence.csproj.AssemblyReference.cache
+C:\Users\pirat\source\repos\Methods\ReplaceSentence\obj\Debug\netcoreapp3.1\ReplaceSentence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pirat\source\repos\Methods\ReplaceSentence\obj\Debug\netcoreapp3.1\ReplaceSentence.AssemblyInfoInputs.cache
+C:\Users\pirat\source\repos\Methods\ReplaceSentence\obj\Debug\netcoreapp3.1\ReplaceSentence.AssemblyInfo.cs
+C:\Users\pirat\source\repos\Methods\ReplaceSentence\obj\Debug\netcoreapp3.1\ReplaceSentence.csproj.CoreCompileInputs.cache
+C:\Users\pirat\source\repos\Methods\ReplaceSentence\bin\Debug\netcoreapp3.1\ReplaceSentence.exe
+C:\Users\pirat\source\repos\Methods\ReplaceSentence\bin\Debug\netcoreapp3.1\ReplaceSentence.deps.json
+C:\Users\pirat\source\repos\Methods\ReplaceSentence\bin\Debug\netcoreapp3.1\ReplaceSentence.runtimeconfig.json
+C:\Users\pirat\source\repos\Methods\ReplaceSentence\bin\Debug\netcoreapp3.1\ReplaceSentence.runtimeconfig.dev.json
+C:\Users\pirat\source\repos\Methods\ReplaceSentence\bin\Debug\netcoreapp3.1\ReplaceSentence.dll
+C:\Users\pirat\source\repos\Methods\ReplaceSentence\bin\Debug\netcoreapp3.1\ReplaceSentence.pdb
+C:\Users\pirat\source\repos\Methods\ReplaceSentence\obj\Debug\netcoreapp3.1\ReplaceSentence.dll
+C:\Users\pirat\source\repos\Methods\ReplaceSentence\obj\Debug\netcoreapp3.1\ReplaceSentence.pdb
+C:\Users\pirat\source\repos\Methods\ReplaceSentence\obj\Debug\netcoreapp3.1\ReplaceSentence.genruntimeconfig.cache
